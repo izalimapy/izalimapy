@@ -2,7 +2,7 @@
 
 - 💼 Atualmente estou trabalhando em cima de projetos da faculdade e outros dentro da minha área de interesse.
 - 👩‍🎓 Estudo sobre Segurança da Informação na Uniasselvi e em paralelo Inteligência Artificial. 
-- 👩‍💻 Estudo também as linguagens C#, Python e JavaScript.
+- 👩‍💻 Estudo também as linguagens C, C#, C++ e Python.
 - 📚 E nas horas vagas eu escrevo artigos no meu perfil do Medium. https://medium.com/@izalimasec 
 
 ##
