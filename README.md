@@ -1,17 +1,9 @@
 ### Olá, eu sou a Iza Lima da DigitalC. 👋
 
-- 💼 Atualmente estou trabalhando em cima de projetos da faculdade e outros dentro da minha área de interesse.
-- 👩‍🎓 Estudo sobre Segurança da Informação na Uniasselvi e em paralelo Inteligência Artificial. 
-- 👩‍💻 Estudo também as linguagens C, C#, C++ e Python.
-- 📚 E nas horas vagas eu escrevo artigos no meu perfil do Medium. https://medium.com/@izalimasec 
+- 💼 Atualmente estou trabalhando como Assistente de Sistemas ( Suporte ) na Empresa NovaXS.
+- 👩‍🎓 Estudo sobre Desenvolvimento de Aplicativos Móveis na Uniasselvi e em paralelo Java Backend pela DIO.
+- ❤️ Eventualmente escrevo sobre uma paixão que tenho que é a Inteligência Artificial. 
 
-##
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Iza-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Iza-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Iza-pic" height="150" style="border-radius:50px;" src="https://cdn.picrew.me/shareImg/org/202302/338224_wwDOqXhA.png"> 
-</div>
 
 ##
 
