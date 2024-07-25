@@ -1,7 +1,7 @@
 ### Olá, eu sou a Iza Lima. 👋
 
 - 💼 Atualmente estou trabalhando como Desenvolvimento e pesquisa de aplicações na ARTmania Propaganda
-- 👩‍🎓 Estudo sobre Desenvolvimento e pesquisas de aplicações
+- 👩‍🎓 Estudo Inteligência Artificial e Machine Learning na Uniasselve. Em paralelo estudo Cybersegurança voltada para IA.
 - ❤️ Eventualmente escrevo sobre uma paixão que tenho que é a Inteligência Artificial. 
 
 
